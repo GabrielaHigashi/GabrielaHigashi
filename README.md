@@ -15,7 +15,7 @@ Transformando ideias em experiências digitais funcionais e intuitivas.
 
 ## Sobre mim
 
-Oii! Sou Gabriela Higashi, formada em Engenharia de Software e atualmente trabalho como Analista de Telecom III.
+Oii! Sou Gabriela Higashi, formada em Engenharia de Software e atualmente atuo como Analista de Telecom III.
 
 Tenho interesse em desenvolvimento Front-End e UI/UX Design, unindo conhecimentos técnicos e criatividade para desenvolver interfaces modernas, intuitivas e funcionais.
 
